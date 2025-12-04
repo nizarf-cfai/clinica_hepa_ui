@@ -1,0 +1,5 @@
+{
+  "name": "MedForce Simulator",
+  "description": "Real-time medical interview simulation dashboard visualizing diagnosis probabilities and question ranking based on live audio/text streams.",
+  "requestFramePermissions": []
+}
